@@ -1,7 +1,7 @@
 /**
  * Perform a deposit or withdrawal from a bank account
 namespace org.acme.moneytransfer
- * @param {org.acme.tradenetwork.AccountTransaction} transaction
+ * @param {org.acme.moneytransfer.AccountTransaction} transaction
  * @transaction
  */
 
